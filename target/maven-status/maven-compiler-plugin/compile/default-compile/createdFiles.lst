@@ -1,0 +1,12 @@
+com\javaspringclub\entity\User.class
+com\javaspringclub\config\WsConfig.class
+com\javaspringclub\service\UserServiceImpl.class
+com\javaspringclub\config\ServletInitializer.class
+com\javaspringclub\controller\UserController.class
+com\javaspringclub\config\WebMvcConfig.class
+com\javaspringclub\config\HibernateConfig.class
+com\javaspringclub\repository\UserRepository.class
+com\javaspringclub\controller\ChatController.class
+com\javaspringclub\model\ChatMessage.class
+com\javaspringclub\model\ChatMessage$MessageType.class
+com\javaspringclub\service\UserService.class
